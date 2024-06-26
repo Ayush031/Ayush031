@@ -1,5 +1,5 @@
-# 💫 About Me:
-I specialize in React Frontend Development.<br>I'm open to collaborate on a project solving real world problem
+I do MERN Dev with specializing in React Frontend Development.
+<br>I'm open to collaborate on a project solving real world problem
 
 
 ## 🌐 Socials:
